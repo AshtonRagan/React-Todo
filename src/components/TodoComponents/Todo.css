@@ -1,0 +1,15 @@
+
+.Todo{
+margin: 2%;
+border: 3px double black;
+width: 20%;
+
+}
+
+.Todo.false{
+background-color: white;
+
+}
+.Todo.true{
+    background-color:grey;
+}
